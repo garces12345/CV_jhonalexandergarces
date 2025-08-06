@@ -1,24 +1,24 @@
-# CV_Example
+# CV_jhonalexandergarces
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+jho alexander garces ascanio
+analista de software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 3212415164
+- **Email:** [familiagarces574@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### sena 2025 actualidada
+-aprendiz en  analisis y desarrollo de software
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### aprendiz 2025 actualidad
+- analisis y desarrollo de software
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### inesco
+- tecnico laboral contabilidad
 
 ## 💡 Habilidades
 - **Habilidad 1**
