@@ -7,7 +7,7 @@ analista de software
 ## 📞 Contacto
 - **Teléfono:** +57 3212415164
 - **Email:** [familiagarces574@gmail.com)(familiagraces574@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [https://www.linkedin.com/in/john-garces-620597379/](https://https://www.linkedin.com/in/john-garces-620597379/)
 
 ## 🏢 Experiencia Laboral
 ### sena 2025 actualidada
