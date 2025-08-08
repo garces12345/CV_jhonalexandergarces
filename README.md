@@ -29,19 +29,6 @@ analista de software
 - **Habilidad 2**
 - **Habilidad 3**
 
----
-
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
 
 ### **Encabezados:**
 - `# Encabezado 1`
