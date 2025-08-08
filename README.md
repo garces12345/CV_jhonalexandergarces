@@ -6,7 +6,7 @@ analista de software
 
 ## 📞 Contacto
 - **Teléfono:** +57 3212415164
-- **Email:** [familiagarces574@gmail.com)
+- **Email:** [familiagarces574@gmail.com)(familiagraces574@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
@@ -16,9 +16,13 @@ analista de software
 ### aprendiz 2025 actualidad
 - analisis y desarrollo de software
 
-## 🎓 Educación
+## 🎓 bachiller academico
+### colegio coopertivo camilo daza 
+- bachiller tecnico en administracion en salud 
+- ## 🎓 tecnico
 ### inesco
 - tecnico laboral contabilidad
+
 
 ## 💡 Habilidades
 - **Habilidad 1**
