@@ -1,23 +1,23 @@
 # CV_jhonalexandergarces
 # Hoja de Vida
 
-jho alexander garces ascanio
-analista de software
+##jho alexander garces ascanio
+#analista de software
 
 ## 📞 Contacto
 - **Teléfono:** +57 3212415164
 - **Email:** [familiagarces574@gmail.com)(familiagraces574@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/john-garces-620597379/](https://https://www.linkedin.com/in/john-garces-620597379/)
 
-## 🏢 Experiencia Laboral
-### sena 2025 actualidada
+## 🏢** Experiencia Laboral**
+### **sena 2025 actualidada**
 -aprendiz en  analisis y desarrollo de software
 
-### aprendiz 2025 actualidad
+### **aprendiz 2025 actualidad**
 - analisis y desarrollo de software
 
-## 🎓 bachiller academico
-### colegio coopertivo camilo daza 
+## 🎓** bachiller academico**
+### **colegio coopertivo camilo daza **
 - bachiller tecnico en administracion en salud 
 - ## 🎓 tecnico
 ### inesco
