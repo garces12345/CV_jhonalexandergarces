@@ -25,9 +25,9 @@
 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **RESPONSABLE**
+- **BUENA ACTITUD**
+- **INTELECTUALIDAD**
 
 
 ### **Encabezados:**
